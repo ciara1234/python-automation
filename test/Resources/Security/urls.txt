@@ -1,0 +1,2 @@
+http://automationpractice.com/index.php
+http://automationpractice.com/index.php?controller=authentication&back=my-account
