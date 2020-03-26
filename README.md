@@ -31,9 +31,10 @@ The test results will show in the console window, and will also be saved as repo
 
     docker-compose -f docker-compose.yml up
     
-4. After tests exit, it is advised to spin the docker container down using compose down
-
+After tests exit, it is advised to spin the docker container down using compose down
 
     docker-compose -f docker-compose.yml down
+        
+        
     
     
